@@ -129,7 +129,7 @@ export default function Hero() {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src="https://asset.cloudinary.com/dwlsmj5se/2cd0dba3399e027a5ee6c31f5a06541f" // Keep your image URL
+                  src="https://res.cloudinary.com/dwlsmj5se/image/upload/fl_preserve_transparency/v1746532992/WhatsApp_Image_2025-05-06_at_15.47.09_cdb09da3_caa73w.jpg?_s=public-apps" // Keep your image URL
                   alt="Portrait"
                   className="w-full h-auto object-cover"
                 />
