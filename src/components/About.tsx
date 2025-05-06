@@ -51,7 +51,7 @@ export default function About() {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="src\images\anuj.jpg" // Keep your image
+                src="https://asset.cloudinary.com/dwlsmj5se/2cd0dba3399e027a5ee6c31f5a06541f" // Keep your image
                 alt="Professional Portrait"
                 className="w-full h-auto object-cover" // Added object-cover for better image fitting
               />

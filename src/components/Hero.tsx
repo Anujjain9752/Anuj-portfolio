@@ -129,7 +129,7 @@ export default function Hero() {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src="src\images\anuj.jpg" // Keep your image URL
+                  src="https://asset.cloudinary.com/dwlsmj5se/2cd0dba3399e027a5ee6c31f5a06541f" // Keep your image URL
                   alt="Portrait"
                   className="w-full h-auto object-cover"
                 />
