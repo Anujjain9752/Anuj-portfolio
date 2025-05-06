@@ -173,7 +173,7 @@ export default function LearningJourney() { // Changed component name
           className="mt-16 text-center"
         >
          <a
-  href="https://drive.google.com/file/d/1d0YSlyB09-TkEMLQRVzhuRw7owks75Ao/view?usp=drive_link" // Replace with your actual resume link
+  href="https://drive.google.com/file/d/1AyFTCUzpu_D38Wf9iME1KGtkYEqOGSDC/view?usp=sharing" // Replace with your actual resume link
   className="inline-flex items-center px-8 py-4 border-2 border-teal-500 dark:border-teal-500 rounded-full font-bold text-teal-700 dark:text-teal-300 bg-white dark:bg-gray-800 shadow-md hover:bg-teal-500 dark:hover:bg-teal-700 hover:text-white dark:hover:text-white transition-all duration-300 ease-in-out transform hover:scale-105"
   target="_blank"
   rel="noopener noreferrer"
