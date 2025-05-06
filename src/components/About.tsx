@@ -51,7 +51,7 @@ export default function About() {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="https://res.cloudinary.com/dwlsmj5se/image/upload/fl_preserve_transparency/v1746532992/WhatsApp_Image_2025-05-06_at_15.47.09_cdb09da3_caa73w.jpg?_s=public-apps" // Keep your image
+                src="https://res.cloudinary.com/dwlsmj5se/image/upload/fl_preserve_transparency/v1746534150/WhatsApp_Image_2025-05-06_at_15.47.09_cdb09da3_caa73w.jpg?_s=public-apps" // Keep your image
                 alt="Professional Portrait"
                 className="w-full h-auto object-cover" // Added object-cover for better image fitting
               />
